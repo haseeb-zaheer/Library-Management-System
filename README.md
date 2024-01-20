@@ -5,4 +5,6 @@ Check the Design_Document.docx file for details on project and scope.
 * Use any C++ Compiler/IDE.  
 * Use the .dat files and paste them in same folder as the .cpp project file.  
 * Run the .cpp file.  
+## Note
+* The .dat files contain dummy data and are in no case, real data.  
 ---
